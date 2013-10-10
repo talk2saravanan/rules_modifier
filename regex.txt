@@ -1,5 +1,0 @@
-#search,replace
-#In case if you want to use , in search or replace pattern,escape it
-
-100.100.100.100/32,200.200.200.200/32
-saran,perl
